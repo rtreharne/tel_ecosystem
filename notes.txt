@@ -1,0 +1,12 @@
+1. Canvas Lens. Assessment reporting. Rubric checking. Moderation report. APP reporting. API required. Users: SoBS, SPS, Psychology, Electrical Engineering, SVS
+2. STAPLE. MCQ exam processing, grading, moderating. API required. Users: SoBS
+3. Marking Groups. Automating marking groups for Canvas. Creating Sections from group sets. API required. Users: SoBS, Psychology.
+4. Lighthouse. Automating application of deadline extensions for students with support plans. API required. Users: SoBS, School of the Arts
+5. Double Marking. Signposting and grade reconciliation portal for Honors project assignments. API required. Users: SoBS
+6. Open Day App. Administration of jobs for ADD and Open Days. Staff allocation. Users: SoBS.
+7. Project Allocation. Project keyword and type matching of students to supervisor proejcts: Users: SoBS
+8. Module Discovery Tool. Scraping of data from Curriculum Manage for access by students choosing modules. Users: SoBS
+9. Automated Staff Enrollments. Tool to allow staff to request access to SoBS Canvas courses with approval/communication pipeline. Users SoBS. API required.
+10. Canvas Companion. Consolidation of homepage designs. AI for formative quizzes and polls. Users: SoBS. API required.
+11. Fight the Future. Web app to support coding based events/workshops, extra curricular activity. Special Projects. Users: SoBS, Computer Sciences, SVS
+12. AI in the UK. Web app to support AI workshop in Global Perspectives module. Users: SoBS. Special Projects.
